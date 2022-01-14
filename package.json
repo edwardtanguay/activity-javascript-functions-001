@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "ex002.js",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
   "type": "module",
   "devDependencies": {
     "jest": "^27.4.7"
