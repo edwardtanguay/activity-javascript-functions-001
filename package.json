@@ -1,0 +1,16 @@
+{
+  "name": "activity-javascript-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex002.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
