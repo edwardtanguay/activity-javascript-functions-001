@@ -2,4 +2,8 @@ const isPlainObject = (potentialObject) => {
 	return typeof potentialObject === 'object' && !Array.isArray(potentialObject) && potentialObject !== null;
 };
 
-module.exports = { isPlainObject };
+const makePairs = (obj) => {
+	return null;
+};
+
+module.exports = { isPlainObject, makePairs };
