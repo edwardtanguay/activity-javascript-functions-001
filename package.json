@@ -4,6 +4,7 @@
   "description": "",
   "main": "ex002.js",
   "dependencies": {},
+  "type": "module",
   "devDependencies": {
     "jest": "^27.4.7"
   },
